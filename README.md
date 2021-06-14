@@ -8,7 +8,7 @@ This project investigates how well we can predict if an opponent is going to run
 
 The data used for this project comes from one source:
 
-http://nflsavant.com/about.php  (play data from 2018-2020)
+NFL Savant  -  http://nflsavant.com/about.php  (play data from 2018-2020)
 
 ### Key Findings
 
