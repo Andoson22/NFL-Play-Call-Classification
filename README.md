@@ -18,7 +18,7 @@ Which situations are passing situations?
 
 By determining what a team will do with the ball before they do it, we can position our defense much more confidently to stop the expected play type.  By positioning our defense more effectively, we can be successful much more often.
 
-![image](https://raw.githubusercontent.com/Andoson22/Customer-Churn-Data/main/Images/Ratio%20of%20Churn.png)
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
 
 Here we can see that our data has more passes than rushes.  Our goal will be to predict passes and rushes at a higher accuracy than the given frequencies.
 
