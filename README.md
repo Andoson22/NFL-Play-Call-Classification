@@ -24,7 +24,7 @@ Here we can see that our data has more passes than rushes.  Our goal will be to 
 
 Our most important features to the models are formation, down, and distance to go.
 
-![image](https://raw.githubusercontent.com/Andoson22/Customer-Churn-Data/main/Images/Ratio%20of%20Churn.png)
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/Final%20Feature%20Importance.png)
 
 #### Recommendations
 
