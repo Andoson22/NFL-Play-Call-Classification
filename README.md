@@ -26,7 +26,7 @@ By determining what a team will do with the ball before they do it, we can posit
 
 Here we can see that our data has more passes than rushes.  Our goal will be to predict passes and rushes at a higher accuracy than the given frequencies.
 
-Our most important features were formation, down, and distance to go.
+Our most important features were formation, down(more specifically 1st and 3rd down), and distance to go.
 
 ![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/Final%20Feature%20Importance.png)
 
