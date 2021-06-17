@@ -24,7 +24,9 @@ By determining what a team will do with the ball before they do it, we can posit
 
 ![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
 
-Here we can see that our data has more passes than rushes.  Our goal will be to predict passes and rushes at a higher accuracy than the given frequencies.
+Here we can see that our data has more passes than rushes. We need to undersample our majority class in order to balance our data to train it. Our goal is to be able to predict the play correctly more than 50% of the time.
+
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
 
 Our most important features were formation, down(more specifically 1st and 3rd down), and distance to go.
 
