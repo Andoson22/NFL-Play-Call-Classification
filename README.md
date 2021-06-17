@@ -12,11 +12,15 @@ NFL Savant  -  http://nflsavant.com/about.php  (play data from 2018-2020)
 
 ### Key Findings
 
-Which situations are rushing situations?
+We want to develop a model that can figure out if an opponent is likely to pass or rush given a certain set of circumstances in the game.
 
-Which situations are passing situations?
+Are there specific rush heavy situations?
 
-By determining what a team will do with the ball before they do it, we can position our defense much more confidently to stop the expected play type.  By positioning our defense more effectively, we can be successful much more often.
+Are there specific pass heavy situations?
+
+How often can our model corectly predict what our opponent is going to do?
+
+By determining what a team will do with the ball before they do it, we can position our defense much more confidently to stop the expected play type.  By positioning our defense more effectively, we can be successful much more often.  By applying knowledge of the rules of the game, as well as general NFL knowledge, we can possibly proivde valuable insights to Offensive and Defensive coordinators. (For offensive coordinators, we can show them how predictable they are or aren't, and for defensive coordinators we can show them based on certain teams and in game situations, what they can expect to see coming their way.)
 
 ![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
 
