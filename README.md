@@ -22,6 +22,10 @@ How often can our model corectly predict what our opponent is going to do?
 
 By determining what a team will do with the ball before they do it, we can position our defense much more confidently to stop the expected play type.  By positioning our defense more effectively, we can be successful much more often.  By applying knowledge of the rules of the game, as well as general NFL knowledge, we can possibly proivde valuable insights to Offensive and Defensive coordinators. (For offensive coordinators, we can show them how predictable they are or aren't, and for defensive coordinators we can show them based on certain teams and in game situations, what they can expect to see coming their way.)
 
+Interestingly, we can see a clear relationship between the percentage of passing and rushing plays solely based off of the current down.
+
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
+
 Here we can see that our data has significantly more passes than rushes. In order for our model to overfit to the majority class, we will need to undersample.
 
 ![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
