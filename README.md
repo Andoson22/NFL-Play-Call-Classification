@@ -28,21 +28,19 @@ Here we can see that our data has more passes than rushes. We need to undersampl
 
 ![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
 
-Our most important features were formation, down(more specifically 1st and 3rd down), and distance to go.
+The ROC curve below shows us that our best model was our first Random Forest.  Looking deeper into our featues we can see...
 
-![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/Final%20Feature%20Importance3.png)
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/ROCCURVEFINAL.png)
 
-
+Our most important features were formation, down(more specifically 1st and 3rd down), and distance to go.  The position the players were lined up in prior to the ball being snapped was one of the strongest indicators to our classifier.  
 
 ![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/Final%20Feature%20Importance3.png)
 
 #### Recommendations
 
-1. On defense, game plan for SITUATIONS, not teams.  Situations are much more useful in predicting whether a team will rush or pass, rather than the team you’re going against.
+1. On defense, game plan for SITUATIONS, not teams.  Situations like the formation a team is lined up in, the down of the series, the yards left until they reach the first down, these are much more useful features in predicting whether a team will rush or pass, rather than the team you’re going against.
 2. Expect the expected.  Be prepared for a pass on passing downs, and a rush in rushing spots. (In general, as the down gets later and the distance gets longer, passing is more likely.)
 3. On offense, employ a mixed games strategy.  Being unpredictable in play calling can significantly increase your yards on a play, and in turn increase potential points.  
-
-## Conclusion
 
 
 
