@@ -30,7 +30,11 @@ Here we can see that our data has more passes than rushes. We need to undersampl
 
 Our most important features were formation, down(more specifically 1st and 3rd down), and distance to go.
 
-![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/Final%20Feature%20Importance2.png)
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/Final%20Feature%20Importance3.png)
+
+
+
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/Final%20Feature%20Importance3.png)
 
 #### Recommendations
 
