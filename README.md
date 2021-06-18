@@ -26,7 +26,7 @@ By determining what a team will do with the ball before they do it, we can posit
 
 Here we can see that our data has more passes than rushes. We need to undersample our majority class in order to balance our data to train it. Our goal is to be able to predict the play correctly more than 50% of the time.
 
-![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushRatio.png)
+![image](https://raw.githubusercontent.com/Andoson22/NFL-Play-Call-Classification/main/Images/PassRushBALANCED.png)
 
 The ROC curve below shows us that our best model was our first Random Forest.  Looking deeper into our featues we can see...
 
